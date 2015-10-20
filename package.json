@@ -1,0 +1,19 @@
+{
+  "name": "tripviz",
+  "version": "0.1.0",
+  "description": "A web app for visualizing trip routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samudra Harapan Bekti",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.14.1",
+    "d3": "^3.5.6",
+    "express": "^4.13.3",
+    "jsdom": "^7.0.0",
+    "topojson": "^1.6.19"
+  }
+}
